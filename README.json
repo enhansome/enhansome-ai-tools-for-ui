@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T17:10:55Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 171285
+            "stars": 171323
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1106996539,
             "language": "Python",
-            "last_commit": "2026-08-20T11:49:07Z",
+            "last_commit": "2026-08-24T13:55:44Z",
             "owner": "nextlevelbuilder",
             "repo": "ui-ux-pro-max-skill",
-            "stars": 120386
+            "stars": 120470
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-31T12:32:42Z",
             "owner": "VoltAgent",
             "repo": "awesome-design-md",
-            "stars": 109975
+            "stars": 110062
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-21T09:32:33Z",
             "owner": "emilkowalski",
             "repo": "skills",
-            "stars": 31967
+            "stars": 32026
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-21T18:55:51Z",
             "owner": "vercel-labs",
             "repo": "agent-skills",
-            "stars": 30399
+            "stars": 30410
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-06T16:19:18Z",
             "owner": "Nutlope",
             "repo": "hallmark",
-            "stars": 26811
+            "stars": 26840
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-23T07:51:20Z",
             "owner": "alchaincyf",
             "repo": "huashu-design",
-            "stars": 23453
+            "stars": 23462
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2025-09-14T07:33:32Z",
             "owner": "OneRedOak",
             "repo": "claude-code-workflows",
-            "stars": 3889
+            "stars": 3888
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-07-09T20:45:53Z",
             "owner": "CloudAI-X",
             "repo": "threejs-skills",
-            "stars": 3127
+            "stars": 3129
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-12T11:45:31Z",
             "owner": "jakubkrehel",
             "repo": "make-interfaces-feel-better",
-            "stars": 2980
+            "stars": 2986
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-04-01T05:40:04Z",
             "owner": "dominikmartn",
             "repo": "nothing-design-skill",
-            "stars": 2744
+            "stars": 2746
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-08T16:02:37Z",
             "owner": "Owl-Listener",
             "repo": "designer-skills",
-            "stars": 2143
+            "stars": 2144
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-08-24T04:46:58Z",
             "owner": "bitjaru",
             "repo": "styleseed",
-            "stars": 915
+            "stars": 916
           }
         },
         {
@@ -258,10 +258,10 @@
             "archived": false,
             "id": 1223170290,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T09:27:19Z",
+            "last_commit": "2026-08-24T14:12:19Z",
             "owner": "nexu-io",
             "repo": "open-design",
-            "stars": 90922
+            "stars": 90986
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-08-14T22:02:06Z",
             "owner": "JCodesMore",
             "repo": "ai-website-cloner-template",
-            "stars": 32971
+            "stars": 32998
           }
         }
       ],
@@ -312,7 +312,7 @@
             "last_commit": "2026-06-20T11:32:45Z",
             "owner": "Dammyjay93",
             "repo": "interface-design",
-            "stars": 5585
+            "stars": 5587
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2026-06-09T23:59:37Z",
             "owner": "zarazhangrui",
             "repo": "beautiful-html-templates",
-            "stars": 4333
+            "stars": 4335
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2026-08-24T09:17:27Z",
             "owner": "paper-design",
             "repo": "shaders",
-            "stars": 3367
+            "stars": 3368
           }
         }
       ],
@@ -371,7 +371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:27:38.405Z",
+    "last_updated": "2026-08-24T14:16:21.939Z",
     "original_repository": "maxbogo/awesome-ai-tools-for-ui",
     "original_repository_id": 1194759189,
     "original_repository_sha": "f26e77e58791e3a64b08a7ef2b249afe506405cd",
