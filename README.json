@@ -10,12 +10,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public repository for Agent Skills",
+            "homepage": null,
             "id": 1061953414,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-21T17:10:55Z",
+            "open_issues": 1186,
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 172267
+            "stars": 172315,
+            "topics": [
+              "agent-skills"
+            ]
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
         },
@@ -26,12 +33,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
+            "homepage": "https://www.uupm.cc/",
             "id": 1106996539,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T09:15:37Z",
+            "open_issues": 90,
             "owner": "nextlevelbuilder",
             "repo": "ui-ux-pro-max-skill",
-            "stars": 122543
+            "stars": 122621,
+            "topics": [
+              "ai-skills",
+              "antigravity",
+              "claude",
+              "claude-code",
+              "codex",
+              "command-line",
+              "copilot",
+              "cursor-ai",
+              "html5",
+              "kiro",
+              "landing-page",
+              "mobile-ui",
+              "qoder",
+              "react",
+              "tailwindcss",
+              "trae",
+              "ui-design",
+              "uikit",
+              "windsurf-ai"
+            ]
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
         },
@@ -42,12 +74,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+            "homepage": "https://getdesign.md/",
             "id": 1197515131,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-31T12:32:42Z",
+            "open_issues": 320,
             "owner": "VoltAgent",
             "repo": "awesome-design-md",
-            "stars": 111076
+            "stars": 111115,
+            "topics": [
+              "awesome-list",
+              "design-md",
+              "design-system",
+              "design-tokens",
+              "figma",
+              "google-stitch",
+              "landing-page",
+              "vibe-coding",
+              "vibe-design",
+              "vibecoding"
+            ]
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
         },
@@ -58,12 +106,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Skills for Designers and Engineers.",
+            "homepage": "https://emilkowal.ski/skill",
             "id": 1183325896,
             "language": "Markdown",
+            "license": "MIT",
             "last_commit": "2026-08-21T09:32:33Z",
+            "open_issues": 0,
             "owner": "emilkowalski",
             "repo": "skills",
-            "stars": 33243
+            "stars": 33283,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
         },
@@ -74,12 +127,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vercel's official collection of agent skills",
+            "homepage": "https://skills.sh/vercel-labs/agent-skills",
             "id": 1112540808,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-28T13:36:31Z",
+            "open_issues": 173,
             "owner": "vercel-labs",
             "repo": "agent-skills",
-            "stars": 30587
+            "stars": 30596,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
         },
@@ -90,12 +148,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+            "homepage": "https://www.usehallmark.com/",
             "id": 1222917575,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-08-06T16:19:18Z",
+            "open_issues": 42,
             "owner": "Nutlope",
             "repo": "hallmark",
-            "stars": 27423
+            "stars": 27443,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
         },
@@ -106,12 +169,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
+            "homepage": null,
             "id": 1215145625,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-25T03:05:46Z",
+            "open_issues": 3,
             "owner": "alchaincyf",
             "repo": "huashu-design",
-            "stars": 23656
+            "stars": 23663,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
         },
@@ -122,12 +190,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The best workflows and configurations I've developed, having heavily used Claude Code since the day of it's release. Workflows are based off applied learnings from our AI-native startup.",
+            "homepage": null,
             "id": 1036412176,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-09-14T07:33:32Z",
+            "open_issues": 9,
             "owner": "OneRedOak",
             "repo": "claude-code-workflows",
-            "stars": 3887
+            "stars": 3888,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
         },
@@ -138,12 +211,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1137798986,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-09T20:45:53Z",
+            "open_issues": 9,
             "owner": "CloudAI-X",
             "repo": "threejs-skills",
-            "stars": 3172
+            "stars": 3174,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
         },
@@ -154,12 +232,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An agent skill that helps make your interface feel better.",
+            "homepage": "https://jakub.kr/writing/details-that-make-interfaces-feel-better",
             "id": 1180346677,
             "language": "Markdown",
+            "license": "MIT",
             "last_commit": "2026-08-12T11:45:31Z",
+            "open_issues": 1,
             "owner": "jakubkrehel",
             "repo": "make-interfaces-feel-better",
-            "stars": 3042
+            "stars": 3046,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
         },
@@ -170,12 +253,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.",
+            "homepage": null,
             "id": 1198074335,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-01T05:40:04Z",
+            "open_issues": 3,
             "owner": "dominikmartn",
             "repo": "nothing-design-skill",
-            "stars": 2755
+            "stars": 2755,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
         },
@@ -186,12 +274,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Designer Skills Collection: agentic skills, commands, and plugins for design — from research to systems, UI, interaction, and delivery.",
+            "homepage": null,
             "id": 1175316550,
             "language": "Markdown",
+            "license": "MIT",
             "last_commit": "2026-08-08T16:02:37Z",
+            "open_issues": 2,
             "owner": "Owl-Listener",
             "repo": "designer-skills",
-            "stars": 2377
+            "stars": 2383,
+            "topics": [
+              "agentic",
+              "agentic-ai",
+              "ai",
+              "ai-tools",
+              "claude-code",
+              "design-system",
+              "design-systems",
+              "prompt-engineering",
+              "skills",
+              "ux-design"
+            ]
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
         },
@@ -202,12 +306,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance audit",
+            "homepage": null,
             "id": 1206044340,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-07-15T22:10:50Z",
+            "open_issues": 2,
             "owner": "hamen",
             "repo": "material-3-skill",
-            "stars": 1331
+            "stars": 1332,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
         },
@@ -218,12 +327,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple grammars, semantic palettes, reference compilation, and evidence-verified UI. MIT.",
+            "homepage": "https://styleseed-demo.vercel.app",
             "id": 1203405919,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T06:17:21Z",
+            "open_issues": 11,
             "owner": "bitjaru",
             "repo": "styleseed",
-            "stars": 926
+            "stars": 926,
+            "topics": [
+              "agent-skills",
+              "ai-coding",
+              "ai-design",
+              "ai-ui",
+              "claude-code",
+              "claude-skills",
+              "codex",
+              "cursor",
+              "design-judgment",
+              "design-system",
+              "design-tokens",
+              "nextjs",
+              "radix-ui",
+              "react",
+              "shadcn",
+              "shadcn-ui",
+              "tailwindcss",
+              "typescript",
+              "ui-design",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
         },
@@ -234,12 +369,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "comprehensive skills based on the Anthropic Skills guide and our design and development philosophy",
+            "homepage": "https://www.bencium.io",
             "id": 1078819607,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-08-14T23:12:36Z",
+            "open_issues": 0,
             "owner": "bencium",
             "repo": "bencium-marketplace",
-            "stars": 406
+            "stars": 407,
+            "topics": [
+              "claude",
+              "claudecode",
+              "codex",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
         },
@@ -250,12 +395,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web design consultant skill built from Y Combinator's Design Review series",
+            "homepage": null,
             "id": 1189871177,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-03-23T19:00:47Z",
+            "open_issues": 0,
             "owner": "maxbogo",
             "repo": "yc-web-design-strategy-skill",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
         }
@@ -272,12 +422,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.",
+            "homepage": "https://open-design.ai",
             "id": 1223170290,
             "language": null,
-            "last_commit": "2026-08-28T13:42:23Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:42:21Z",
+            "open_issues": 905,
             "owner": "nexu-io",
             "repo": "open-design",
-            "stars": 92357
+            "stars": 92438,
+            "topics": [
+              "agent-skills",
+              "ai-design",
+              "byok",
+              "claude-code-for-design",
+              "claude-design",
+              "codex-design",
+              "coding-agents",
+              "cursor-design",
+              "deepseek",
+              "deepseek-harness",
+              "design-systems",
+              "desktop-app",
+              "dsh",
+              "dsh-plugin",
+              "figma-alternative",
+              "hermes-agent",
+              "local-first",
+              "prototyping",
+              "ui-generator",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
         },
@@ -288,12 +464,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clone any website with one command using AI coding agents",
+            "homepage": "https://dsc.gg/jcodesmore",
             "id": 1180745961,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-14T22:02:06Z",
+            "open_issues": 2,
             "owner": "JCodesMore",
             "repo": "ai-website-cloner-template",
-            "stars": 33300
+            "stars": 33314,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-tools",
+              "automation",
+              "boilerplate",
+              "claude",
+              "claude-code",
+              "clone",
+              "developer-tools",
+              "nextjs",
+              "react",
+              "reverse-engineering",
+              "shadcn-ui",
+              "skills",
+              "tailwindcss",
+              "template",
+              "typescript",
+              "web-scraping",
+              "website-clone"
+            ]
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
         }
@@ -310,12 +511,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "It's like v0, but in your Cursor / Claude Code / Windsurf: search 10,000+ React/Tailwind components, generate new UI with AI, and publish your own — right from your editor. Magic MCP is now the 21st MCP; this package keeps old configs working. Setup: 21st.dev/mcp",
+            "homepage": "https://21st.dev/mcp",
             "id": 935450522,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-07-31T23:27:33Z",
+            "open_issues": 1,
             "owner": "21st-dev",
             "repo": "magic-mcp",
-            "stars": 5746
+            "stars": 5747,
+            "topics": [
+              "21st",
+              "claude",
+              "cursor",
+              "mcp",
+              "model-context-protocol",
+              "react",
+              "tailwindcss",
+              "ui-components"
+            ]
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
         },
@@ -326,12 +541,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.",
+            "homepage": "https://interface-design.dev",
             "id": 1127982345,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-06-20T11:32:45Z",
+            "open_issues": 8,
             "owner": "Dammyjay93",
             "repo": "interface-design",
-            "stars": 5621
+            "stars": 5623,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
         },
@@ -342,12 +562,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1134637414,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-05-06T01:41:06Z",
+            "open_issues": 4,
             "owner": "0xdesign",
             "repo": "design-plugin",
-            "stars": 750
+            "stars": 750,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
         }
@@ -364,12 +589,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.",
+            "homepage": null,
             "id": 1229531271,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-06-09T23:59:37Z",
+            "open_issues": 1,
             "owner": "zarazhangrui",
             "repo": "beautiful-html-templates",
-            "stars": 4400
+            "stars": 4403,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
         },
@@ -380,12 +610,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zero-dependency canvas shaders that can be installed from npm or designed in Paper",
+            "homepage": "https://shaders.paper.design",
             "id": 870282240,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T09:17:27Z",
+            "open_issues": 14,
             "owner": "paper-design",
             "repo": "shaders",
-            "stars": 3391
+            "stars": 3392,
+            "topics": [
+              "react",
+              "shaders",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
         }
@@ -394,15 +633,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:20:51.605Z",
+    "last_updated": "2026-08-29T04:35:48.434Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of awesome AI tools to build beautiful UI/UX.",
+      "homepage": null,
       "id": 1194759189,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-06T20:21:13Z",
+      "open_issues": 8,
       "owner": "maxbogo",
       "repo": "awesome-ai-tools-for-ui",
-      "stars": 843
+      "stars": 844,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "claude",
+        "codex",
+        "cursor",
+        "figma",
+        "landing-page",
+        "mcp",
+        "skills",
+        "ui",
+        "ui-design",
+        "vibe-coding",
+        "vibe-design"
+      ]
     },
     "original_repository_sha": "f26e77e58791e3a64b08a7ef2b249afe506405cd",
     "enhanced_repository": "enhansome/enhansome-ai-tools-for-ui",
