@@ -15,11 +15,11 @@
             "id": 1061953414,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-29T02:20:07Z",
-            "open_issues": 1402,
+            "last_commit": "2026-10-03T20:38:10Z",
+            "open_issues": 1413,
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 179487,
+            "stars": 179597,
             "topics": [
               "agent-skills"
             ]
@@ -38,11 +38,11 @@
             "id": 1106996539,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-27T11:30:41Z",
-            "open_issues": 82,
+            "last_commit": "2026-10-03T16:05:26Z",
+            "open_issues": 81,
             "owner": "nextlevelbuilder",
             "repo": "ui-ux-pro-max-skill",
-            "stars": 132690,
+            "stars": 132929,
             "topics": [
               "ai-skills",
               "antigravity",
@@ -80,10 +80,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-21T08:23:38Z",
-            "open_issues": 312,
+            "open_issues": 313,
             "owner": "VoltAgent",
             "repo": "awesome-design-md",
-            "stars": 119342,
+            "stars": 119494,
             "topics": [
               "awesome-list",
               "design-md",
@@ -115,7 +115,7 @@
             "open_issues": 0,
             "owner": "emilkowalski",
             "repo": "skills",
-            "stars": 42936,
+            "stars": 43100,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
@@ -133,10 +133,10 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-08-28T13:36:31Z",
-            "open_issues": 177,
+            "open_issues": 178,
             "owner": "vercel-labs",
             "repo": "agent-skills",
-            "stars": 31877,
+            "stars": 31910,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
@@ -157,7 +157,7 @@
             "open_issues": 48,
             "owner": "Nutlope",
             "repo": "hallmark",
-            "stars": 29444,
+            "stars": 29516,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
@@ -178,7 +178,7 @@
             "open_issues": 4,
             "owner": "alchaincyf",
             "repo": "huashu-design",
-            "stars": 24570,
+            "stars": 24580,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
@@ -195,11 +195,11 @@
             "id": 1140229822,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-03T04:37:34Z",
-            "open_issues": 182,
+            "last_commit": "2026-10-04T00:11:07Z",
+            "open_issues": 187,
             "owner": "cursor",
             "repo": "plugins",
-            "stars": 9605,
+            "stars": 9734,
             "topics": []
           },
           "first_seen": "2026-09-26T13:21:38.857Z"
@@ -220,7 +220,7 @@
             "open_issues": 10,
             "owner": "OneRedOak",
             "repo": "claude-code-workflows",
-            "stars": 3895,
+            "stars": 3897,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
@@ -241,7 +241,7 @@
             "open_issues": 0,
             "owner": "jakubkrehel",
             "repo": "make-interfaces-feel-better",
-            "stars": 3565,
+            "stars": 3570,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
@@ -262,7 +262,7 @@
             "open_issues": 9,
             "owner": "CloudAI-X",
             "repo": "threejs-skills",
-            "stars": 3446,
+            "stars": 3453,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
@@ -283,7 +283,7 @@
             "open_issues": 2,
             "owner": "Owl-Listener",
             "repo": "designer-skills",
-            "stars": 2823,
+            "stars": 2830,
             "topics": [
               "agentic",
               "agentic-ai",
@@ -315,7 +315,7 @@
             "open_issues": 3,
             "owner": "dominikmartn",
             "repo": "nothing-design-skill",
-            "stars": 2805,
+            "stars": 2804,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
@@ -336,7 +336,7 @@
             "open_issues": 2,
             "owner": "hamen",
             "repo": "material-3-skill",
-            "stars": 1441,
+            "stars": 1446,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
@@ -416,11 +416,11 @@
             "id": 1078819607,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-03T12:36:40Z",
+            "last_commit": "2026-10-04T09:16:46Z",
             "open_issues": 0,
             "owner": "bencium",
             "repo": "bencium-marketplace",
-            "stars": 442,
+            "stars": 443,
             "topics": [
               "claude",
               "claudecode",
@@ -446,7 +446,7 @@
             "open_issues": 1,
             "owner": "ericzakariasson",
             "repo": "scandinavian-design",
-            "stars": 404,
+            "stars": 403,
             "topics": []
           },
           "first_seen": "2026-09-26T13:21:38.857Z"
@@ -490,11 +490,11 @@
             "id": 1223170290,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T01:26:22Z",
-            "open_issues": 1165,
+            "last_commit": "2026-10-04T02:08:04Z",
+            "open_issues": 1158,
             "owner": "nexu-io",
             "repo": "open-design",
-            "stars": 99261,
+            "stars": 99380,
             "topics": [
               "agent-skills",
               "ai-design",
@@ -536,7 +536,7 @@
             "open_issues": 2,
             "owner": "JCodesMore",
             "repo": "ai-website-cloner-template",
-            "stars": 35578,
+            "stars": 35609,
             "topics": [
               "ai",
               "ai-agents",
@@ -583,7 +583,7 @@
             "open_issues": 5,
             "owner": "21st-dev",
             "repo": "magic-mcp",
-            "stars": 5960,
+            "stars": 5965,
             "topics": [
               "21st",
               "claude",
@@ -613,7 +613,7 @@
             "open_issues": 8,
             "owner": "Dammyjay93",
             "repo": "interface-design",
-            "stars": 5757,
+            "stars": 5762,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
@@ -634,7 +634,7 @@
             "open_issues": 4,
             "owner": "0xdesign",
             "repo": "design-plugin",
-            "stars": 779,
+            "stars": 780,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
@@ -661,7 +661,7 @@
             "open_issues": 1,
             "owner": "zarazhangrui",
             "repo": "beautiful-html-templates",
-            "stars": 4696,
+            "stars": 4703,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
@@ -678,11 +678,11 @@
             "id": 870282240,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:37:30Z",
+            "last_commit": "2026-10-03T14:43:21Z",
             "open_issues": 12,
             "owner": "paper-design",
             "repo": "shaders",
-            "stars": 3534,
+            "stars": 3542,
             "topics": [
               "react",
               "shaders",
@@ -696,7 +696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T13:40:26.072Z",
+    "last_updated": "2026-10-04T14:20:44.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome AI tools to build beautiful UI/UX.",
