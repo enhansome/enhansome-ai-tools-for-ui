@@ -16,10 +16,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-11-06T22:32:32Z",
-            "open_issues": 1511,
+            "open_issues": 1517,
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 191973,
+            "stars": 192929,
             "topics": [
               "agent-skills"
             ]
@@ -39,10 +39,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-10T13:03:58Z",
-            "open_issues": 87,
+            "open_issues": 86,
             "owner": "nextlevelbuilder",
             "repo": "ui-ux-pro-max-skill",
-            "stars": 147685,
+            "stars": 148108,
             "topics": [
               "ai-skills",
               "antigravity",
@@ -75,7 +75,7 @@
           "repo_info": {
             "archived": false,
             "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-            "homepage": "https://starterkit.getdesign.md/",
+            "homepage": "https://getdesign.md/",
             "id": 1197515131,
             "language": null,
             "license": "MIT",
@@ -83,7 +83,7 @@
             "open_issues": 304,
             "owner": "VoltAgent",
             "repo": "awesome-design-md",
-            "stars": 126450,
+            "stars": 126828,
             "topics": [
               "awesome-list",
               "design-md",
@@ -114,7 +114,7 @@
             "open_issues": 1,
             "owner": "emilkowalski",
             "repo": "skills",
-            "stars": 55708,
+            "stars": 56057,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
@@ -131,11 +131,11 @@
             "id": 1222917575,
             "language": "CSS",
             "license": "MIT",
-            "last_commit": "2026-11-05T13:16:31Z",
-            "open_issues": 52,
+            "last_commit": "2026-11-11T11:56:16Z",
+            "open_issues": 45,
             "owner": "Nutlope",
             "repo": "hallmark",
-            "stars": 52373,
+            "stars": 53190,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
@@ -156,7 +156,7 @@
             "open_issues": 196,
             "owner": "vercel-labs",
             "repo": "agent-skills",
-            "stars": 33833,
+            "stars": 33893,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
@@ -177,7 +177,7 @@
             "open_issues": 0,
             "owner": "alchaincyf",
             "repo": "huashu-design",
-            "stars": 29122,
+            "stars": 29237,
             "topics": [
               "agent-skills",
               "ai-design",
@@ -215,11 +215,11 @@
             "id": 1140229822,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-10T06:08:57Z",
-            "open_issues": 644,
+            "last_commit": "2026-11-11T08:09:36Z",
+            "open_issues": 645,
             "owner": "cursor",
             "repo": "plugins",
-            "stars": 15947,
+            "stars": 16018,
             "topics": []
           },
           "first_seen": "2026-09-26T13:21:38.857Z"
@@ -240,7 +240,7 @@
             "open_issues": 0,
             "owner": "CloudAI-X",
             "repo": "threejs-skills",
-            "stars": 4117,
+            "stars": 4131,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
@@ -261,7 +261,7 @@
             "open_issues": 0,
             "owner": "jakubkrehel",
             "repo": "make-interfaces-feel-better",
-            "stars": 3973,
+            "stars": 3987,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
@@ -282,7 +282,7 @@
             "open_issues": 9,
             "owner": "OneRedOak",
             "repo": "claude-code-workflows",
-            "stars": 3919,
+            "stars": 3920,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
@@ -300,10 +300,10 @@
             "language": "Markdown",
             "license": "MIT",
             "last_commit": "2026-09-05T15:32:50Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "Owl-Listener",
             "repo": "designer-skills",
-            "stars": 3310,
+            "stars": 3320,
             "topics": [
               "agentic",
               "agentic-ai",
@@ -335,7 +335,7 @@
             "open_issues": 4,
             "owner": "dominikmartn",
             "repo": "nothing-design-skill",
-            "stars": 2857,
+            "stars": 2868,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
@@ -356,7 +356,7 @@
             "open_issues": 2,
             "owner": "hamen",
             "repo": "material-3-skill",
-            "stars": 1565,
+            "stars": 1570,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
@@ -373,11 +373,11 @@
             "id": 1203405919,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T15:40:45Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-11T13:13:53Z",
+            "open_issues": 26,
             "owner": "bitjaru",
             "repo": "styleseed",
-            "stars": 1005,
+            "stars": 1009,
             "topics": [
               "agent-skills",
               "ai-coding",
@@ -419,7 +419,7 @@
             "open_issues": 1,
             "owner": "s0xDk",
             "repo": "refactoring-ui-skill",
-            "stars": 698,
+            "stars": 699,
             "topics": []
           },
           "first_seen": "2026-09-26T13:21:38.857Z"
@@ -440,7 +440,7 @@
             "open_issues": 1,
             "owner": "bencium",
             "repo": "bencium-marketplace",
-            "stars": 491,
+            "stars": 494,
             "topics": [
               "claude",
               "claudecode",
@@ -510,11 +510,11 @@
             "id": 1223170290,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T09:25:09Z",
-            "open_issues": 1388,
+            "last_commit": "2026-11-11T13:40:46Z",
+            "open_issues": 1381,
             "owner": "nexu-io",
             "repo": "open-design",
-            "stars": 106993,
+            "stars": 107177,
             "topics": [
               "agent-skills",
               "ai-design",
@@ -556,7 +556,7 @@
             "open_issues": 12,
             "owner": "JCodesMore",
             "repo": "ai-website-cloner-template",
-            "stars": 38952,
+            "stars": 39008,
             "topics": [
               "ai",
               "ai-agents",
@@ -603,7 +603,7 @@
             "open_issues": 9,
             "owner": "21st-dev",
             "repo": "magic-mcp",
-            "stars": 6447,
+            "stars": 6458,
             "topics": [
               "21st",
               "claude",
@@ -633,7 +633,7 @@
             "open_issues": 8,
             "owner": "Dammyjay93",
             "repo": "interface-design",
-            "stars": 5952,
+            "stars": 5961,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
@@ -709,7 +709,7 @@
             "open_issues": 1,
             "owner": "zarazhangrui",
             "repo": "beautiful-html-templates",
-            "stars": 4968,
+            "stars": 4970,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:51.605Z"
@@ -726,11 +726,11 @@
             "id": 870282240,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T12:29:32Z",
+            "last_commit": "2026-11-11T11:15:49Z",
             "open_issues": 16,
             "owner": "paper-design",
             "repo": "shaders",
-            "stars": 3949,
+            "stars": 3957,
             "topics": [
               "react",
               "shaders",
@@ -744,7 +744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T16:34:54.289Z",
+    "last_updated": "2026-11-11T16:33:11.458Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome AI tools to build beautiful UI/UX.",
@@ -753,7 +753,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-11-03T11:07:17Z",
-      "open_issues": 14,
+      "open_issues": 13,
       "owner": "maxbogo",
       "repo": "awesome-ai-tools-for-ui",
       "stars": 1029,
