@@ -38,23 +38,23 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 
 > AI agent skills that enhance code editors and coding assistants with design intelligence.
 
-* [Anthropic Frontend Design Skill](https://github.com/anthropics/skills/tree/main/skills/frontend-design?utm_source=awesome-ai-tools-for-ui) ⭐ 194,032 | 🐛 1,527 | 🌐 Python | 📅 2026-11-06 - Teaches Claude to build frontend UIs with strong visual direction instead of generic defaults.
-* [UI UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill?utm_source=awesome-ai-tools-for-ui) ⭐ 148,997 | 🐛 82 | 🌐 Python | 📅 2026-11-10 - Generates design systems (colors, typography, layouts) based on your project type and framework.
-* [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md/?utm_source=awesome-ai-tools-for-ui) ⭐ 127,373 | 🐛 303 | 📅 2026-10-28 - Curated collection of DESIGN.md files inspired by developer-focused websites.
-* [Emil Kowalski Skills](https://github.com/emilkowalski/skills?utm_source=awesome-ai-tools-for-ui) ⭐ 56,586 | 🐛 3 | 🌐 Markdown | 📅 2026-11-13 - Skills for designers and engineers covering animation, motion, and practical interface design.
-* [Hallmark](https://github.com/nutlope/hallmark?utm_source=awesome-ai-tools-for-ui) ⭐ 54,381 | 🐛 47 | 🌐 CSS | 📅 2026-11-11 - Design skill for Claude Code, Cursor, and Codex that audits and generates UI against anti-slop design gates.
-* [Web Design Guidelines Skill](https://github.com/vercel-labs/agent-skills/blob/main/skills/web-design-guidelines/SKILL.md?utm_source=awesome-ai-tools-for-ui) ⭐ 34,002 | 🐛 199 | 🌐 JavaScript | 📅 2026-11-12 - Checks your UI code against web design best practices and flags violations.
-* [Huashu Design](https://github.com/alchaincyf/huashu-design?utm_source=awesome-ai-tools-for-ui) ⭐ 29,417 | 🐛 0 | 🌐 HTML | 📅 2026-11-10 - HTML-native design skill for generating prototypes, slides, animations, and design reviews from agent prompts.
-* [Unslop Skill](https://github.com/cursor/plugins/blob/main/pstack/skills/unslop/SKILL.md?utm_source=awesome-ai-tools-for-ui) ⭐ 16,186 | 🐛 651 | 🌐 TypeScript | 📅 2026-11-13 - Removes common AI-generated writing patterns while preserving meaning and tone.
-* [Three.js Skills](https://github.com/CloudAI-X/threejs-skills?utm_source=awesome-ai-tools-for-ui) ⭐ 4,170 | 🐛 0 | 📅 2026-10-19 - Collection of Three.js skills covering scenes, geometry, lighting, shaders, loaders, animation, and interaction.
-* [Make Interfaces Feel Better](https://github.com/jakubkrehel/make-interfaces-feel-better?utm_source=awesome-ai-tools-for-ui) ⭐ 4,007 | 🐛 0 | 🌐 Markdown | 📅 2026-08-29 - Agent skill that teaches small design engineering details that compound into better interfaces.
+* [Anthropic Frontend Design Skill](https://github.com/anthropics/skills/tree/main/skills/frontend-design?utm_source=awesome-ai-tools-for-ui) ⭐ 194,436 | 🐛 1,540 | 🌐 Python | 📅 2026-11-14 - Teaches Claude to build frontend UIs with strong visual direction instead of generic defaults.
+* [UI UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill?utm_source=awesome-ai-tools-for-ui) ⭐ 149,368 | 🐛 84 | 🌐 Python | 📅 2026-11-10 - Generates design systems (colors, typography, layouts) based on your project type and framework.
+* [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md/?utm_source=awesome-ai-tools-for-ui) ⭐ 127,490 | 🐛 303 | 📅 2026-10-28 - Curated collection of DESIGN.md files inspired by developer-focused websites.
+* [Emil Kowalski Skills](https://github.com/emilkowalski/skills?utm_source=awesome-ai-tools-for-ui) ⭐ 56,827 | 🐛 2 | 🌐 Markdown | 📅 2026-11-13 - Skills for designers and engineers covering animation, motion, and practical interface design.
+* [Hallmark](https://github.com/nutlope/hallmark?utm_source=awesome-ai-tools-for-ui) ⭐ 54,812 | 🐛 47 | 🌐 CSS | 📅 2026-11-11 - Design skill for Claude Code, Cursor, and Codex that audits and generates UI against anti-slop design gates.
+* [Web Design Guidelines Skill](https://github.com/vercel-labs/agent-skills/blob/main/skills/web-design-guidelines/SKILL.md?utm_source=awesome-ai-tools-for-ui) ⭐ 34,053 | 🐛 199 | 🌐 JavaScript | 📅 2026-11-12 - Checks your UI code against web design best practices and flags violations.
+* [Huashu Design](https://github.com/alchaincyf/huashu-design?utm_source=awesome-ai-tools-for-ui) ⭐ 29,477 | 🐛 0 | 🌐 HTML | 📅 2026-11-10 - HTML-native design skill for generating prototypes, slides, animations, and design reviews from agent prompts.
+* [Unslop Skill](https://github.com/cursor/plugins/blob/main/pstack/skills/unslop/SKILL.md?utm_source=awesome-ai-tools-for-ui) ⭐ 16,261 | 🐛 657 | 🌐 TypeScript | 📅 2026-11-14 - Removes common AI-generated writing patterns while preserving meaning and tone.
+* [Three.js Skills](https://github.com/CloudAI-X/threejs-skills?utm_source=awesome-ai-tools-for-ui) ⭐ 4,182 | 🐛 0 | 📅 2026-10-19 - Collection of Three.js skills covering scenes, geometry, lighting, shaders, loaders, animation, and interaction.
+* [Make Interfaces Feel Better](https://github.com/jakubkrehel/make-interfaces-feel-better?utm_source=awesome-ai-tools-for-ui) ⭐ 4,011 | 🐛 0 | 🌐 Markdown | 📅 2026-08-29 - Agent skill that teaches small design engineering details that compound into better interfaces.
 * [Claude Code Design Review Workflow](https://github.com/OneRedOak/claude-code-workflows/tree/main/design-review?utm_source=awesome-ai-tools-for-ui) ⭐ 3,921 | 🐛 9 | 📅 2026-10-09 - Templates, subagent prompt, and slash command for automated design reviews against frontend changes.
-* [Designer Skills Collection](https://github.com/Owl-Listener/designer-skills?utm_source=awesome-ai-tools-for-ui) ⭐ 3,342 | 🐛 4 | 🌐 Markdown | 📅 2026-09-05 - Pack of skills and commands — from research to systems, UI, interaction, and delivery.
-* [Nothing Design Skill](https://github.com/dominikmartn/nothing-design-skill?utm_source=awesome-ai-tools-for-ui) ⭐ 2,873 | 🐛 4 | 📅 2026-11-10 - Claude Code skill for producing Nothing-inspired monochrome, typographic, industrial UI.
-* [Material Design 3 Skill](https://github.com/hamen/material-3-skill?utm_source=awesome-ai-tools-for-ui) ⭐ 1,576 | 🐛 2 | 🌐 Shell | 📅 2026-07-15 - Portable Material Design 3 skill covering tokens, theming, 30+ components, responsive layout, and MD3 audits.
-* [StyleSeed](https://github.com/bitjaru/styleseed?utm_source=awesome-ai-tools-for-ui) ⭐ 1,011 | 🐛 28 | 🌐 JavaScript | 📅 2026-11-13 - Design rules and slash-command skills that give agents design judgment — coherence, hierarchy, UX-writing.
-* [Refactoring UI Skill](https://github.com/s0xDk/refactoring-ui-skill?utm_source=awesome-ai-tools-for-ui) ⭐ 699 | 🐛 1 | 🌐 CSS | 📅 2026-08-26 - Claude Code skill applying Refactoring UI rules for spacing, typography, color, hierarchy, and depth.
-* [Bencium Marketplace](https://github.com/bencium/bencium-marketplace?utm_source=awesome-ai-tools-for-ui) ⭐ 497 | 🐛 1 | 🌐 Shell | 📅 2026-10-04 - Claude Code plugin marketplace with skills for design, architecture, productivity, typography, and code review.
+* [Designer Skills Collection](https://github.com/Owl-Listener/designer-skills?utm_source=awesome-ai-tools-for-ui) ⭐ 3,353 | 🐛 8 | 🌐 Markdown | 📅 2026-09-05 - Pack of skills and commands — from research to systems, UI, interaction, and delivery.
+* [Nothing Design Skill](https://github.com/dominikmartn/nothing-design-skill?utm_source=awesome-ai-tools-for-ui) ⭐ 2,876 | 🐛 4 | 📅 2026-11-10 - Claude Code skill for producing Nothing-inspired monochrome, typographic, industrial UI.
+* [Material Design 3 Skill](https://github.com/hamen/material-3-skill?utm_source=awesome-ai-tools-for-ui) ⭐ 1,579 | 🐛 2 | 🌐 Shell | 📅 2026-07-15 - Portable Material Design 3 skill covering tokens, theming, 30+ components, responsive layout, and MD3 audits.
+* [StyleSeed](https://github.com/bitjaru/styleseed?utm_source=awesome-ai-tools-for-ui) ⭐ 1,014 | 🐛 28 | 🌐 JavaScript | 📅 2026-11-13 - Design rules and slash-command skills that give agents design judgment — coherence, hierarchy, UX-writing.
+* [Refactoring UI Skill](https://github.com/s0xDk/refactoring-ui-skill?utm_source=awesome-ai-tools-for-ui) ⭐ 701 | 🐛 1 | 🌐 CSS | 📅 2026-08-26 - Claude Code skill applying Refactoring UI rules for spacing, typography, color, hierarchy, and depth.
+* [Bencium Marketplace](https://github.com/bencium/bencium-marketplace?utm_source=awesome-ai-tools-for-ui) ⭐ 499 | 🐛 1 | 🌐 Shell | 📅 2026-10-04 - Claude Code plugin marketplace with skills for design, architecture, productivity, typography, and code review.
 * [Scandinavian Design Skill](https://github.com/ericzakariasson/scandinavian-design?utm_source=awesome-ai-tools-for-ui) ⭐ 416 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-22 - Cursor skill for applying a restrained Scandinavian visual system with monochrome color, sans-serif type, spacing, and product imagery.
 * [YC Web Design Strategy Skill](https://github.com/maxbogo/yc-web-design-strategy-skill?utm_source=awesome-ai-tools-for-ui) ⭐ 6 | 🐛 0 | 📅 2026-03-23 - Web design and strategy principles from YC's Design Review series, packaged as a skill.
 * ⭐️ [Impeccable](https://impeccable.style/?utm_source=awesome-ai-tools-for-ui) - 20 design commands that teach your AI agent about typography, spacing, and visual hierarchy.
@@ -68,8 +68,8 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 
 > AI-powered applications for designing and building user interfaces.
 
-* [Open Design](https://github.com/nexu-io/open-design?utm_source=awesome-ai-tools-for-ui) ⭐ 107,494 | 🐛 1,399 | 🌐 TypeScript | 📅 2026-11-13 - Local-first, open-source alternative to Claude Design for generating prototypes, slides, images, and videos.
-* [AI Website Cloner](https://github.com/JCodesMore/ai-website-cloner-template?utm_source=awesome-ai-tools-for-ui) ⭐ 39,105 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-10 - Clone any website into a Next.js codebase with one command using AI agents.
+* [Open Design](https://github.com/nexu-io/open-design?utm_source=awesome-ai-tools-for-ui) ⭐ 107,612 | 🐛 1,402 | 🌐 TypeScript | 📅 2026-11-14 - Local-first, open-source alternative to Claude Design for generating prototypes, slides, images, and videos.
+* [AI Website Cloner](https://github.com/JCodesMore/ai-website-cloner-template?utm_source=awesome-ai-tools-for-ui) ⭐ 39,134 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-10 - Clone any website into a Next.js codebase with one command using AI agents.
 * ⭐️ [21st.dev](https://21st.dev/home?utm_source=awesome-ai-tools-for-ui) - UI component library and templates for building AI-powered products.
 * [Superdesign](https://app.superdesign.dev/?utm_source=awesome-ai-tools-for-ui) - AI design tool for generating interfaces in the browser.
 * ⭐️ [Variant](https://variant.com/?utm_source=awesome-ai-tools-for-ui) - Scroll through AI-generated design variations for your ideas.
@@ -86,8 +86,8 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 
 > Model Context Protocol servers and plugins that add UI research and design workflows to AI editors.
 
-* [Magic MCP](https://github.com/21st-dev/magic-mcp?utm_source=awesome-ai-tools-for-ui) ⭐ 6,482 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-09 - Generate UI components from text prompts inside Cursor, Windsurf, and VSCode.
-* [Interface Design](https://github.com/Dammyjay93/interface-design?utm_source=awesome-ai-tools-for-ui) ⭐ 5,971 | 🐛 8 | 🌐 Shell | 📅 2026-06-20 - Claude Code plugin for remembering interface decisions across sessions and keeping UI systems consistent.
+* [Magic MCP](https://github.com/21st-dev/magic-mcp?utm_source=awesome-ai-tools-for-ui) ⭐ 6,515 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-09 - Generate UI components from text prompts inside Cursor, Windsurf, and VSCode.
+* [Interface Design](https://github.com/Dammyjay93/interface-design?utm_source=awesome-ai-tools-for-ui) ⭐ 5,982 | 🐛 8 | 🌐 Shell | 📅 2026-06-20 - Claude Code plugin for remembering interface decisions across sessions and keeping UI systems consistent.
 * [Design and Refine](https://github.com/0xdesign/design-plugin?utm_source=awesome-ai-tools-for-ui) ⭐ 784 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-17 - Claude Code plugin for generating, comparing, and refining multiple UI variations in your codebase.
 * [Mobbin](https://github.com/mobbin/skills?utm_source=awesome-ai-tools-for-ui) ⭐ 69 | 🐛 0 | 🌐 HTML | 📅 2026-11-12 - Plugin and MCP server for searching real app screens, user flows, and website sections as UI design references.
 * [UI Layouts MCP](https://www.ui-layouts.com/mcp?utm_source=awesome-ai-tools-for-ui) - Lets AI editors search and use real UI components instead of guessing the code.
@@ -99,8 +99,8 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 
 > Not AI-powered, but valuable tools for UI/UX work.
 
-* [Beautiful HTML Templates](https://github.com/zarazhangrui/beautiful-html-templates?utm_source=awesome-ai-tools-for-ui) ⭐ 4,986 | 🐛 1 | 🌐 HTML | 📅 2026-06-09 - Agent-ready library of reusable HTML slide templates for generating polished decks.
-* [Paper Shaders](https://github.com/paper-design/shaders?utm_source=awesome-ai-tools-for-ui) ⭐ 3,967 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-13 - Zero-dependency canvas shaders for adding customizable animated backgrounds, textures, and masked effects to websites.
+* [Beautiful HTML Templates](https://github.com/zarazhangrui/beautiful-html-templates?utm_source=awesome-ai-tools-for-ui) ⭐ 4,991 | 🐛 1 | 🌐 HTML | 📅 2026-06-09 - Agent-ready library of reusable HTML slide templates for generating polished decks.
+* [Paper Shaders](https://github.com/paper-design/shaders?utm_source=awesome-ai-tools-for-ui) ⭐ 3,973 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-13 - Zero-dependency canvas shaders for adding customizable animated backgrounds, textures, and masked effects to websites.
 * [FontCrafter](https://arcade.pirillo.com/fontcrafter.html?utm_source=awesome-ai-tools-for-ui) - Turn your handwriting into an installable font in the browser. Exports OTF, TTF, WOFF2.
 * [SVG Loaders](https://magecdn.com/tools/svg-loaders?utm_source=awesome-ai-tools-for-ui) - 100+ open-source animated SVG loading spinners (MIT).
 * [SVG Backgrounds](https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/?utm_source=awesome-ai-tools-for-ui) - Free SVG backgrounds and patterns you can customize.
@@ -127,4 +127,4 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
